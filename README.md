@@ -1,4 +1,10 @@
-### Hi there 👋
+### 中山樹
+
+[ホームページ](https://nakayamaitsuki.github.io/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NakayamaItsuki&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NakayamaItsuki&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NakayamaItsuki/NakayamaItsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
